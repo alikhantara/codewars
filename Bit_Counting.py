@@ -12,4 +12,4 @@ def count_bits(n: int):
     print("Your Value is:", bitcount)
     return(bitcount)
 
-count_bits(123123)
+count_bits('qweqwe')
