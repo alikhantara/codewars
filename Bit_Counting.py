@@ -12,4 +12,7 @@ def count_bits(n: int):
     print("Your Value is:", bitcount)
     return(bitcount)
 
-count_bits('qweqwe')
+ 
+num = 767676                               # put here your number for calculation
+
+count_bits(num)
